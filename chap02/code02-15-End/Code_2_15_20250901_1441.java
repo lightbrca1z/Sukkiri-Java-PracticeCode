@@ -1,0 +1,11 @@
+import java.util.Random;
+
+public class Code_2_15_20250901_1441 {
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+		int r = new Random().nextInt(90);
+		System.out.println("あなたはたぶん、" + r + "歳ですね？");
+	}
+
+}
